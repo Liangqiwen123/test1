@@ -1,0 +1,184 @@
+body{
+	width: 1300px;
+	height: 1300px;
+	background-image:url(../images/bodybg.jpg);
+	background-size: 2300px 1700px;
+	margin: auto;
+	background-repeat: no-repeat;
+}
+/*<顶部样式*/
+.logo{
+	margin: auto;
+	margin-left: 350px;
+}
+.logo p{
+	float: right;
+	margin-top: 2px;
+	margin-right:50px;
+	color: white;
+}
+.daohang{
+	magin:auto;
+	height: 40px;
+}
+.daohang ul li{
+	list-style: none;
+	display: inline;
+	float: left;
+	margin-left: 25px;
+}
+.daohang li a{
+	font-family: '华文行楷';
+	font-size: 20px;
+	color: gold;
+	text-decoration: none;
+}
+.daohang li a:hover{
+	color: #ff33ff;
+	text-decoration: underline;
+}
+.c2{
+	float: right; 
+}
+#c1{
+	float: right;
+}
+.banner{
+	margin: auto;
+	width: 800px;
+	background-image: url(../images/banner.jpg);
+	height: 280px;
+	margin-left: 110px;
+	background-repeat: no-repeat;
+}
+.banner img{
+	width: 1000px;
+	height: 300px;
+}
+.banner table{
+	float: right;
+	margin-top: 190px;
+	color: gold;
+}
+/*<页中部分*/
+.line{
+	margin: auto;
+	margin-top: 20px;
+}
+.xiao img{
+	margin-left: 260px;
+	height: 50px;
+	width: 1000px;
+}
+.pg1{
+	margin: auto;
+	opacity: 0.8;
+}
+.pg1:hover{
+	opacity: 1;
+}
+.pg1{
+	margin-left: 50px;
+}
+.pg1 img{
+	width: 500px;
+	height: 250px;
+}
+.pg1 p{
+	float: right;
+	margin-top: 80px;
+	margin-right: 210px;
+	color: pink;
+	font-family: '华文行楷';
+	font-size: 20px;
+}
+.pg2{
+	margin: auto;
+	height: 250px;
+}
+.pg2 img{
+	width: 500px;
+    height: 250px;
+    float: right;
+    margin-right: 100px;
+}
+.pg2 p{
+	float: left;
+	color: pink;
+	font-size: 20px;
+	font-family: '华文隶书';
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.pg2{
+	margin: auto;
+	opacity: 0.8;
+}
+.pg2:hover{
+	opacity: 1;
+}
+.pg3{
+	width: 1300px;
+}
+.pg3 img{
+	width: 500px;
+	height: 200px;
+	margin-left: 50px;
+
+}
+.pg3 p{
+	float: right;
+	margin-top: 50px;
+	font-size: 20px;
+	font-family: "华文行楷";
+	margin-right: 100px;
+	color: pink;
+}
+.pg3{
+	margin: auto;
+	opacity: 0.8;
+}
+.pg3:hover{
+	opacity: 1;
+}
+.reply{
+	width: 1000px;
+	height: 50px;
+}
+
+/*页脚部分*/
+.foot-line{
+	height: 1px;
+}
+.footer{
+	margin-top: 75px;
+	float: left;
+}
+.footer img{
+   width: 1200px;
+   height: 1px;   
+}
+.footer ul{
+	height: 10px;
+	margin-left: 120px;
+}
+.footer ul li{
+   height: 10px;
+   list-style: none;
+   float: left;
+   margin-left: 70px;
+}
+.footer a{
+	color: #ffce20;
+	text-decoration: none;
+}
+.footer a:hover{
+	text-decoration: underline;
+	color: pink;
+}
+.safe{
+	margin-left: 380px;
+}
+.safe p{
+	color: #ffce20;
+}

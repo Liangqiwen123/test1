@@ -1,0 +1,113 @@
+body{
+	background-image: url(../images/bodybg.jpg);
+	background-size: 2300px 2000px;
+}
+.content{
+	width: 1300px;
+}
+.logo p{
+	float: right;
+	margin-top: 2px;
+	margin-right:50px;
+	color: white;
+}
+.young{
+	height: 90px;
+	width: 1200px;
+	margin-top: 20px;
+}
+.young img{
+	width: 1200px;
+	height: 90px;
+}
+.young1{
+	width: 800px;
+	height: 900px;
+	border: 1px solid #336633;
+	margin-top: 40px;
+}
+.young1 img{
+	margin-left: 100px;
+	margin-top: -2px;
+}
+.gushi{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: '宋体';
+	margin-left: 290px;
+	color: #fff3ee;
+}
+#story p{
+	width: 600px;
+	font-size: 17px;
+	font-family: '华文新魏';
+	color: #ccff80;
+	line-height: 23px;
+	margin-left: 50px;
+}
+#story{
+	float: left;
+	margin-right: 50px;
+	color: #ccff80;
+}
+.rewen{
+	float: right;
+	width: 400px;
+	height: 850px;
+	border: 1px solid pink;
+	margin-top: 65px;
+
+}
+.rewen img{
+	width: 65px;
+	height:65px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.wen{
+	font-size: 30px;
+	font-family: '华文琥珀';
+	color: #ff22dd;
+	margin-top: 25px;
+}
+.rewen ul li{
+	font-family: '楷书';
+	float: left;
+	line-height: 25px;
+	list-style-image: url(../images/biaoqian4.jpg);
+}
+.rewen ul li a{
+	text-decoration: none;
+	font-family: '宋体';
+	color:yellow;
+}
+.rewen ul li a:hover{
+	text-decoration: underline;
+	text-decoration-color: blue;
+}
+.rewen span{
+	color: white;
+	float: right;
+}
+.sp{
+	float: right;
+}
+.pinglun{
+	width: 800px;
+	border: 1px solid #336633;
+}
+.ping ul{
+	height: 20px;
+	margin-left: 600px;
+}
+.pinglun ul li{
+	display: inline;
+	list-style: none;
+}
+.pinglun li a{
+	color: #ffce20;
+}
+.biaodanpinglun{
+	float: right;
+	margin-top: -55px;
+}

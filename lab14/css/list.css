@@ -1,0 +1,105 @@
+.logo p{
+	float: right;
+	margin-top: 2px;
+	margin-right:50px;
+	color: white;
+}
+/*内容部分*/
+.content1{
+	background-image: url(../images/bg1.jpg);
+	height: 250px;
+	width: 1000px;
+	float: left;
+	background-size: 230px 230px;
+	background-repeat: no-repeat; 
+	margin-left: 120px;
+	margin-top: 25px;
+}
+.content1 p{
+	float: right;
+	color: gold;
+	font-family: '华文行楷';
+	font-size: 16px;
+	margin-top: 70px;
+}
+.content2{
+	height: 250px;
+	width: 1100px;
+	background-repeat: no-repeat;
+	clear: both;
+}
+.content img{
+	width: 230px;
+	height: 230px;
+	margin-left: 120px;
+}
+.content2 p{
+	float: right;
+	margin-right: 55px;
+	margin-top: 50px;
+	font-size: 16px;
+	font-family: '幼圆';
+	font-weight: bolder;
+	color: #336699;
+}
+.content{
+	height: 250px;
+	width: 1300px;
+}
+.content3 img{
+	width: 230px;
+	height: 230px;
+	margin-left: 120px;
+}
+.content3 p{
+	float: right;
+	margin-right: 265px;
+	margin-top: 70px;
+	font-size: 16px;
+	font-family: '方正姚体';
+	font-weight:bolder;
+	color: yellow;
+}
+.content4{
+	margin-top: 20px;
+	clear: both;
+}
+.content4 img{
+	width: 230px;
+	height: 230px;
+	margin-left: 120px; 
+}
+.content4 p{
+	float: right;
+	margin-right: 355px;
+	margin-top: 70px;
+	font-size: 16px;
+	font-family: '方正新魏';
+	font-weight:bolder;
+	color: orange;	
+}
+.content span{
+	color: #ccfe10;
+	font-family: '宋体';
+	margin-left: 450px;
+}
+.cc{
+	height: 20px;
+	clear: both;
+	margin-left: 350px;
+}
+.cc li{
+	list-style: none;
+	float: left;
+}
+.cc ul li a{
+	color: #ffceff;
+}
+.kong{
+    height: 30px;
+    width: 500px;
+
+}
+.footer{
+	margin-top: -10px;
+}
