@@ -8,7 +8,6 @@ https://www.xiaopiu.com/h5/byId?type=project&id=5bf272c8d53d8e3bd5536dad
     
 ### 项目仓库地址：
 https://github.com/liuhengren/youji.git
-    
-    
 
-    
+###### 项目小组成员：
+李俊霞、梁启文、刘恒韧、郝帅虎
