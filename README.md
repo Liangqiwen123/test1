@@ -4,7 +4,7 @@
 >*项目名称：游迹*
 
 ### 项目原型地址请访问：
-    <a href="https://www.xiaopiu.com/h5/byId?type=project&id=5bf272c8d53d8e3bd5536dad"/>
+https://www.xiaopiu.com/h5/byId?type=project&id=5bf272c8d53d8e3bd5536dad
     
     
     
