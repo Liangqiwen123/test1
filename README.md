@@ -6,8 +6,9 @@
 ### 项目原型地址请访问：
 https://www.xiaopiu.com/h5/byId?type=project&id=5bf272c8d53d8e3bd5536dad
     
+### 项目仓库地址：
+https://github.com/liuhengren/youji.git
     
     
-    
-    
+
     
